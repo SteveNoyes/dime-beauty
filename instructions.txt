@@ -1,0 +1,12 @@
+
+
+Users should be able to click "Add to Bundle" for any of the items listed and if their total
+card value crosses the $100 threshold their card should apply a 10% discount.
+
+Once ready for submission push code to own repo on Github and provide instructions for how to run the application within the README.md 
+
+
+
+
+
+
