@@ -1,0 +1,7 @@
+Almond - F0E0CA - rgb(240, 224, 202) = card image background
+
+Dark Charcoal - 333333 - rgb(51, 51, 51) = font color, button background, sav
+
+White - ffffff - rbg(255, 255, 255) = body background, 
+
+Font Family = 'Roboto', sans-serif, mono-space;
