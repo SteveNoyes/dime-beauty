@@ -1,8 +1,10 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Installation](#installation)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Usage](#usage)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -10,16 +12,18 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Deploying project](#deploying-project)
-- [Submitting solution](#submitting-solution)
-- [Sharing solution](#sharing-solution)
 - [License](#license)
-- [Installation](#installation)
-- [Usage](#usage)
+
 
 
 ## Overview
+Users should be able to click "Add to Bundle" for any of the items listed and if their total
+card value crosses the $100 threshold their card should apply a 10% discount.
 
-## Installation
+Once ready for submission push code to own repo on Github and provide instructions for how to run the application within the README.md 
+  
+
+### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
@@ -36,7 +40,7 @@ pip install foobar
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## Usage
+### Usage
 
 ```js
 
@@ -56,6 +60,12 @@ pip install foobar
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
+
+Without having image assets. I went to main website, downloaded webp. Converted images to png and removed the background. The only part I was unable to recreate was the shadow effect from the image onto the background.
+
+I loaded the starter image onto an html page and used a color picker to find the hex values. 
+
+I was unable to use the shopify font cdn so I went with Roboto from Google Fonts.
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
