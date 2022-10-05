@@ -1,0 +1,27 @@
+:root {
+  --white: #ffffff;
+  --dark-charcoal: #333333;
+  --almond: #F0E0CA;
+}
+
+body {
+
+  /* Font Weight 400 & 700 */
+  font-family: "Roboto", sans-serif, monospace;
+  
+}
+
+.singleCard {
+  border: 1px solid red;
+  border-radius: 10px;
+}
+
+.productImg {
+  background-color: var(--almond);
+  border-radius: 10px 10px 0 0;
+}
+
+.singleCard ul {
+  display: flex;
+
+}
